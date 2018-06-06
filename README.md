@@ -2,6 +2,43 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
+## JsPdfPoc
+D:\POC\PDF_ANGULAR_DOWNLOAD_POC\jsPdfPoc>ng -v
+
+     _                      _                 ____ _     ___
+    / \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
+   / ? \ | '_ \ / _` | | | | |/ _` | '__|   | |   | |    | |
+  / ___ \| | | | (_| | |_| | | (_| | |      | |___| |___ | |
+ /_/   \_\_| |_|\__, |\__,_|_|\__,_|_|       \____|_____|___|
+                |___/
+
+
+Angular CLI: 6.0.7
+Node: 8.11.1
+OS: win32 x64
+Angular: 6.0.3
+... animations, common, compiler, compiler-cli, core, forms
+... http, language-service, platform-browser
+... platform-browser-dynamic
+
+Package                           Version
+-----------------------------------------------------------
+@angular-devkit/architect         0.6.7
+@angular-devkit/build-angular     0.6.7
+@angular-devkit/build-optimizer   0.6.7
+@angular-devkit/core              0.6.7
+@angular-devkit/schematics        0.6.7
+@angular/cli                      6.0.7
+@angular/router                   4.0.0
+@ngtools/webpack                  6.0.7
+@schematics/angular               0.6.7
+@schematics/update                0.6.7
+rxjs                              6.2.0
+typescript                        2.7.2
+webpack                           4.8.3
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
