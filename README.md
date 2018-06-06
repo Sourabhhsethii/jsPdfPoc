@@ -2,8 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
-## JsPdfPoc
-D:\POC\PDF_ANGULAR_DOWNLOAD_POC\jsPdfPoc>ng -v
+## JsPdfPoc Gloabl dependency 
+   JsPdfPoc Gloabl dependency should be matched with dependency module in package.json.
+   
+    D:\POC\PDF_ANGULAR_DOWNLOAD_POC\jsPdfPoc>ng -v
 
   Angular CLI: 6.0.7
   Node: 8.11.1
