@@ -7,13 +7,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
    
     D:\POC\PDF_ANGULAR_DOWNLOAD_POC\jsPdfPoc>ng -v
 
-  Angular CLI: 6.0.7
-  Node: 8.11.1
-  OS: win32 x64
-  Angular: 6.0.3
-  ... animations, common, compiler, compiler-cli, core, forms
-  . .. http, language-service, platform-browser
-  ... platform-browser-dynamic
+    Angular CLI: 6.0.7
+    Node: 8.11.1
+    OS: win32 x64
+    Angular: 6.0.3
+    ... animations, common, compiler, compiler-cli, core, forms
+    . .. http, language-service, platform-browser
+    ... platform-browser-dynamic
 
     Package                           Version
     -----------------------------------------------------------
